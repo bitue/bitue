@@ -6,14 +6,14 @@
 - 🥅 2023 Goals: To solve 1000+ problems in Leetcode and Codeforces (coding on ....)
 - 🥅 2023 Goals: To become codeforces specialist and getting core knowledge in Graph theory (coding on ....)
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
-### Connect with me:
+
 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/md--ashikul--islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md--ashikul--islam" height="30" width="40" /></a>
 </p>
