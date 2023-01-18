@@ -8,13 +8,9 @@
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 ### Connect with me:
 
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<br />
-<br />
 
 
 
