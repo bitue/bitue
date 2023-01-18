@@ -12,9 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- <a href="https://www.linkedin.com/in/rahat-khan-pathan/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a> -->
+
 <br />
 <br />
 
@@ -23,11 +21,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
+
 <br/>
 <br/>
 
@@ -40,8 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -50,18 +43,3 @@
 <br />
 <br />
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bitue&&theme=xcode)](https://github.com/bitue)
-
-
-<!-- ---
-  ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
-<br />
-
----
-  
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
-
-
-[facebook]: https://www.facebook.com/rahatkhanpathan.1999/ -->
