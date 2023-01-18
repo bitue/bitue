@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm bitue</h1>
-<h3 align="center">Problem solver Enthusiast, Love Nature</h3>
+### Hi there, I'm bitue 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitue&label=Profile%20views&color=0e75b6&style=flat" alt="bitue" /> </p>
+## I'm a Learner, Problem Solver, Full Stack Developer !!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitue" alt="bitue" /></a> </p>
+- 🥅 2022 Goals: To become MERN stack developer and get job (Done all)
+- 🥅 2023 Goals: To solve 1000+ problems in Leetcode and Codeforces (coding on ....)
+- 🥅 2023 Goals: To become codeforces specialist and getting core knowledge in Graph theory (coding on ....)
+- 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
+### Connect with me:
+
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitue&show_icons=true&locale=en" alt="bitue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitue&" alt="bitue" /></p>
+
+
