@@ -1,19 +1,89 @@
-### Hi there, I'm bitue 👋
+# Hi there 👋, I'm Ashikul Islam (bitue)
 
-## I'm a Learner, Problem Solver, Full Stack Developer !!
+🚀 **Full Stack Software Engineer | Java & Microservices Specialist | Data & Analytics Enthusiast**
 
+I am a passionate problem solver and full-stack engineer with strong experience in **Java Spring Boot–based microservices**, **modern frontend frameworks**, and **distributed systems**.  
+I love building **scalable, secure, and high-performance applications** and continuously learning new technologies.
 
+---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 👨‍💻 About Me
+- 🔭 Currently working on **Microservices, Event-Driven Systems & Analytics**
+- 🌱 Exploring **Advanced System Design, Kafka Streams & Cloud-Native Architecture**
+- 💡 Strong interest in **Data-Driven Decision Making & Backend Optimization**
+- ⚡ Clean code advocate, performance-focused, production-ready mindset
 
+---
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/md--ashikul--islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md--ashikul--islam" height="30" width="40" /></a>
+## 🧠 Tech Stack
+
+### 🔹 Backend
+- **Java**, **Spring Boot**, **Spring Cloud**
+- REST APIs, **gRPC**
+- **Microservices Architecture**
+- **Kafka**, Event-Driven Systems
+- Hibernate / JPA
+- Authentication & Authorization (JWT, OAuth2)
+
+### 🔹 Frontend
+- **Angular**
+- **React.js**
+- TypeScript, JavaScript
+- Tailwind CSS, Bootstrap
+
+### 🔹 Databases & Caching
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### 🔹 DevOps & Cloud
+- Docker & Docker Compose
+- AWS (EC2, S3, RDS basics)
+- Nginx
+- Linux
+- CI/CD (GitHub Actions – basic)
+
+### 🔹 Analytics & Data
+- SQL-based analytics
+- Log & event analysis
+- Performance monitoring mindset
+
+---
+
+## 🧩 System Design Experience
+- Distributed microservices
+- API Gateway & Service-to-Service communication
+- Async messaging with Kafka
+- Scalable database design
+- Fault-tolerant & resilient systems
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitue&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitue&layout=compact&theme=tokyonight" height="165"/>
 </p>
-<h3 align="left">Languages and Tools and will learn future:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferre<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+---
 
+## 🔥 Contribution & Code Activity
+- Clean, meaningful commits
+- Consistent push & collaboration
+- Focus on **readability, scalability & maintainability**
+- Real-world production-oriented coding
 
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/md--ashikul--islam" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+</p>
+
+---
+
+⭐ **“Build systems that scale, code that lasts, and solutions that matter.”**
