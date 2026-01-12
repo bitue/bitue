@@ -2,12 +2,6 @@
 
 ## I'm a Learner, Problem Solver, Full Stack Developer !!
 
-- 🥅 2022 Goals: To become MERN stack developer and get job (Done all)
-- 🥅 2023 Goals: To solve 1000+ problems in Leetcode and Codeforces (coding on ....)
-- 🥅 2023 Goals: To become codeforces specialist and getting core knowledge in Graph theory (coding on ....)
-- 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
-
-
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
