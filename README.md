@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ashikul Islam (bitue)
 
-🚀 **Full Stack Software Engineer | Java & Microservices Specialist | Data & Analytics Enthusiast**
+🚀 **Full Stack Software Engineer | Java & Microservices Specialist | Data Engineering pipeline Specialist **
 
-I am a passionate problem solver and full-stack engineer with strong experience in **Java Spring Boot–based microservices**, **modern frontend frameworks**, and **distributed systems**.  
+I am a passionate problem solver and full-stack engineer with strong experience in **Java Spring Boot–based microservices**, and **distributed systems**.  
 I love building **scalable, secure, and high-performance applications** and continuously learning new technologies.
 
 ---
